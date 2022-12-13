@@ -32,7 +32,7 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Next image"
+        android:text="@string/next_image"
         app:layout_constraintBottom_toBottomOf="parent"
         android:layout_margin="8dp"
         app:layout_constraintTop_toBottomOf="@+id/imageViewDog" />
